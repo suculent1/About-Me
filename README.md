@@ -3,50 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cybersecurity Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-    }
-    main {
-      padding: 20px;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    h2 {
-      color: #333;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <header>
-    <h1>Cybersecurity Portfolio</h1>
+    <h1>Vincent Ukor</h1>
+    <h2>Cybersecurity Analyst | Cybersecurity Engineer | Systems Analyst</h2>
   </header>
   <main>
     <section>
@@ -68,7 +29,7 @@
     </section>
     <section>
       <h2>Contact Me</h2>
-      <p>If you have any questions or would like to discuss potential collaboration opportunities, please feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+      <p>If you have any questions or would like to discuss potential collaboration opportunities, please feel free to reach out to me at <a href="mailto:your-email@example.com">ukor.vincent663@gmail.com</a>.</p>
     </section>
   </main>
 </body>
