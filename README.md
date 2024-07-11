@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>Vincent Ukor</h1>
+    <h1>Hi I'm Vincent</h1>
     <h2>Cybersecurity Analyst | Cybersecurity Engineer | Systems Analyst</h2>
   </header>
   <main>
@@ -21,6 +21,15 @@
         <li><a href="https://github.com/your-username/project2">Project 2: Incident Response and Forensics</a></li>
         <li><a href="https://github.com/your-username/project3">Project 3: Network Security and Firewall Configuration</a></li>
         <li><a href="https://github.com/your-username/project4">Project 4: Cybersecurity Policy and Risk Assessment</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>My Certifications</h2>
+      <ul>
+        <li><a href="https://www.credly.com/users/vincent-ukor"> Certifications 1</a></li>
+        <li><a href="https://www.credly.com/users/vincent-ukor">Certification 2</a></li>
+        <li><a href="https://www.credly.com/users/vincent-ukor">Certification 3</a></li>
+        <li><a href="https://www.credly.com/users/vincent-ukor">Certification 4</a></li>
       </ul>
     </section>
     <section>
