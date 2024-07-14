@@ -22,7 +22,7 @@
         <li><a href="https://github.com/your-username/project3">Developed Access Control Worksheet</a></li>
         <li><a href="https://github.com/your-username/project4">Network Traffic Analysis Using TCPDUMP</a></li>
         <li><a href="https://github.com/your-username/project5">Security Risk Assessment Report for XYZ Inc.</a></li>
-        <li><a href="https://github.com/suculent1/Deep-Packet-Inspection-Project/edit/main/README.md/project4">Deep Packet Inspection with WireShark</a></li>
+        <li><a href="https://github.com/suculent1/Deep-Packet-Inspection-Project/edit/main/README.md">Deep Packet Inspection with WireShark</a></li>
         <li><a href="https://github.com/your-username/project4">Developed Active Directory Homelab with Powershell</a></li>
       </ul>
     </section>
