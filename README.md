@@ -17,9 +17,9 @@
     <section>
       <h2>My Cybersecurity Projects</h2>
       <ul>
-        <li><a href="https://github.com/your-username/project1">Project 1: Vulnerability Scanning and Penetration Testing</a></li>
-        <li><a href="https://github.com/your-username/project2">Project 2: Incident Response and Forensics</a></li>
-        <li><a href="https://github.com/your-username/project3">Project 3: Network Security and Firewall Configuration</a></li>
+        <li><a href="https://github.com/your-username/project1">Project 1: Developed Access Control Worksheet</a></li>
+        <li><a href="https://github.com/your-username/project2">Project 2: Network Traffic Analysis Using TCPDUMP</a></li>
+        <li><a href="https://github.com/your-username/project3">Project 3: Security Risk Assessment Report for XYZ Inc.</a></li>
         <li><a href="https://github.com/your-username/project4">Project 4: Cybersecurity Policy and Risk Assessment</a></li>
       </ul>
     </section>
